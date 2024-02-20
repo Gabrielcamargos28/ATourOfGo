@@ -1,12 +1,12 @@
-Welcome to a tour of Go
+<img src="https://go.dev/images/go-logo-white.svg" ><h1>Welcome to a tour of Go</h1>
 Using the tour
 
 Welcome to a tour of the Go programming language. The tour covers the most important features of the language, mainly:
 
-Welcome!
+<h2>Welcome!</h2>
 Learn how to use this tour: including how to navigate the different lessons and how to run code.
 
-Basics
+<h2>Basics</h2>
 
 The starting point, learn all the basics of the language.
 
@@ -21,21 +21,21 @@ Learn how to control the flow of your code with conditionals, loops, switches an
 More types: structs, slices, and maps.
 Learn how to define types based on existing ones: this lesson covers structs, arrays, slices, and maps.
 
-Methods and interfaces
+<h2>Methods and interfaces</h2>
 
 Learn how to define methods on types, how to declare interfaces, and how to put everything together.
 
 Methods and interfaces
 This lesson covers methods and interfaces, the constructs that define objects and their behavior.
 
-Generics
+<h2>Generics</h2>
 
 Learn how to use type parameters in Go functions and structs.
 
 Generics
 Go supports generic programming using type parameters. This lesson shows some examples for employing generics in your code.
 
-Concurrency
+<h2>Concurrency</h2>
 
 Go provides concurrency features as part of the core language.
 
